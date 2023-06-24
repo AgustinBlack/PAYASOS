@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black ;
+}
+
+/* IMAGENES */
+
+.seccion-imagen{
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+
+/* NAV */
+
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    padding: 10px;
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 20px;
+}
+
+.navbar bg-body-tertiary{
+    --bs-navbar-padding: 0px;
+}
+
+.btn-outline-success{
+    color: white;
+    border: 1px solid white;
+}
+
+
+/* CARD */
+
+.info__payasos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.col-md-8{
+    align-items: center;
+}
+
+.col-md-4{
+    background-color: rgb(28, 27, 27);
+    display: flex;
+}
+
+.card-body{
+    color: white;
+}
+
+.card{
+    background-color: rgb(28, 27, 27);
+}
+
+.boton__payaso{
+    border: 2px solid rgb(59, 58, 58);
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
+
+.boton__payaso:hover{
+    background-color: rgb(28, 27, 27);
+    border: 2px solid white;
+    color: white;
+    transition: 0.5s;
+}

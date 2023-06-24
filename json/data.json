@@ -1,0 +1,56 @@
+[
+    {        
+        "id": 1,
+        "imagen":"images/john-mauss.jpg",
+        "nombre": "John Mauss",
+        "edad": "45 years",
+        "altura": "1.67 mts",
+        "peso": "60 kgs",
+        "datos": "Dont turn off the lights"
+    },
+    {
+        "id": 2,
+        "imagen": "images/juan.jpg",
+        "nombre": "Juan",
+        "edad": "25 years",
+        "altura": "1.50 mts",
+        "peso": "70 kgs",
+        "datos": "Do not trust too much of that. What is good is bad" 
+    },
+    {
+        "id": 3,
+        "imagen": "images/loly.jpg",
+        "nombre": "Loly",
+        "edad": "45 years",
+        "altura": "1.80 mts",
+        "peso": "100 kgs",
+        "datos": "Dont get to close" 
+    },
+    {
+        "id": 4,
+        "imagen": "images/klaster.jpg",
+        "nombre": "Klaster",
+        "edad": "47 years",
+        "altura": "1.90 mts",
+        "peso": "100 kgs",
+        "datos": "Dont play with him. Dont shake hands" 
+    },
+    {
+        "id": 5,
+        "imagen": "images/terrifier.jpg",
+        "nombre": "Lucky",
+        "edad": "37 years",
+        "altura": "1.75 mts",
+        "peso": "80 kgs",
+        "datos": "Keep distance. Keep it away from sharp objects arrives at 3:30 am" 
+    },
+    {
+        "id": 6,
+        "imagen": "images/DIN-DIN.jpg",
+        "nombre": "Din Din",
+        "edad": "39 years",
+        "altura": "1.85 mts",
+        "peso": "75 kgs",
+        "datos": "Dont look at it much includes a surprise box" 
+    }
+]
